@@ -1,4 +1,4 @@
-<h1 align="center">Vitor Juan Mendes de Carvalho</h1>
+<h1 align="center">Vitor Mendes</h1>
 
 <p align="center">
   Analista de QA Pleno · Testes funcionais e automação · IA aplicada a QA
