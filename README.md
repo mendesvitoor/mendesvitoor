@@ -35,7 +35,7 @@ Atuo em ERP na CISS, cuidando da qualidade de ponta a ponta: entendo a regra de 
 | **QA Analyst Agent** | Agente de IA que analisa atividades do Jira pela ótica da qualidade: mudanças, regras, impactos, riscos e estratégia de validação. Identifica cenários de teste, lacunas, ambiguidades e pontos a confirmar, sem inventar requisitos ou dados. | _em breve_ |
 | **Skill de documentação para o Jira** | Automatiza a documentação padrão de QA e publica o resultado como comentário na atividade. | _em breve_ |
 | **Teste exploratório em plataforma de casos de teste** | Teste exploratório em que identifiquei um bug, documentei e reportei. A equipe agradeceu e corrigiu. | _em breve_ |
-| **QA Lab** | Projeto de exemplo com Playwright e GitHub Actions. | [_em breve_](https://github.com/mendesvitoor/playwright-estoquelab) |
+| **QA Lab** | Projeto de exemplo com Playwright e GitHub Actions. | [_Playwright EstoqueLAB_](https://github.com/mendesvitoor/playwright-estoquelab) |
 
 ## Ferramentas
 
